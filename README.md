@@ -13,7 +13,6 @@ To use this template for your own project, follow these steps:
 
 1. Click "Use this template" > "Create a new repository" button at the top of this repository to make a new repo with this template
 1. Clone the repository to your local machine
-1. Delete the `.git` directory
 1. Create a `.env.local` file in the root directory and add the following environment variables:
 
    ```
