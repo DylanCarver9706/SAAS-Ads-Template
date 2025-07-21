@@ -7,7 +7,7 @@ frontend:
         build:
             commands:
                 # Write private env vars (used server-side only)
-                - env | grep -e POSTHOG_HOST >> .env.production
+                # - env | grep -e {env_var_name_here} -e {env_var_name_here} >> .env.production
 
                 # Write public env vars (safe for client)
                 - env | grep -e NEXT_PUBLIC_ >> .env.production
