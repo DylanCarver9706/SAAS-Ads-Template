@@ -18,7 +18,7 @@ To use this template for your own project, follow these steps:
    ```
    ## PostHog Analytics
    NEXT_PUBLIC_POSTHOG_KEY=your_posthog_project_api_key
-   POSTHOG_HOST=https://us.i.posthog.com
+   NEXT_PUBLIC_POSTHOG_HOST=https://us.i.posthog.com
 
    ## Google Adsense
    NEXT_PUBLIC_GOOGLE_ADSENSE_ID=your_google_adsense_id
