@@ -70,6 +70,7 @@ To use this template for your own project, follow these steps:
    ```bash
    npm run build
    ```
+1. Add additional private environment variables (not prefixed with NEXT_PUBLIC_) in the build commands section of the amplify.yml file
 
 1. Add, commit, and push the code:
 
